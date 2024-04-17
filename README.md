@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I am Web Frontend Developer I have learned HTML, CSS, JS and React with Typescript<br>👯 I’m open to learn and to work with others<br>⚡ I like to contribute opensouce <br> 🎯 I have listed my all  projects at [Projects](https://simarjot0032.github.io/portfolio/#/Project) <br>📝I also write blogs at [Blogs](https://simarjot0032.github.io/portfolio/#/Blog)
+🔭 I am Web Frontend Developer I have learned HTML, CSS, JS and React with Typescript<br>👯 I’m open to learn and to work with others<br>⚡ I like to contribute opensouce <br> 🎯 I have listed my some of the projects at [Projects](https://simarjot0032.github.io/portfolio/#/Project) <br>📝I also write blogs at [Blogs](https://simarjot0032.github.io/portfolio/#/Blog)
 
 
 # 💻 Tech Stack:
