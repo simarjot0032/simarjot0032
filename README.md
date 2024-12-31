@@ -23,6 +23,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=simarjot0032&icon=0&color=0)](https://visitcount.itsvg.in)
-[![wakatime](https://wakatime.com/badge/user/6e2cb01e-a2f3-458c-b94d-a5685f73eb1d.svg)](https://wakatime.com/@6e2cb01e-a2f3-458c-b94d-a5685f73eb1d)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![wakatime](https://wakatime.com/badge/user/6e2cb01e-a2f3-458c-b94d-a5685f73eb1d.svg)](https://wakatime.com/@6e2cb01e-a2f3-458c-b94d-a5685f73eb1d)
+Since Aug 2024
