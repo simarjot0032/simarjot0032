@@ -15,8 +15,10 @@
 ![SCSS](https://img.shields.io/badge/scss-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=simarjot0032&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simarjot0032&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=simarjot0032&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=simarjot0032&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=simarjot0032&theme=dark&hide_border=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simarjot0032&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
